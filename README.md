@@ -1,5 +1,4 @@
-HelloWorld
+DSA
 ==========
 
-just another repository
-Making some changes now
+All the practice code i have written in data structures. 
